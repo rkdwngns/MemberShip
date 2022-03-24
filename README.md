@@ -2,8 +2,10 @@
 java와 SceneBuilder를 이용한 회원가입창
 
 # 실행화면
-로그인 화면 입니다 여기에 값을 넣으면 
-![{284D723F-F3C0-4CD2-BC22-4DBC9255D45D}](https://user-images.githubusercontent.com/93520535/141286311-9b5509a8-7034-4c5c-9669-9b98d316a6fa.png)
+로그인 화면 입니다 여기에 id와 비번을 넣으면 로그인 됩니다   
+하지만 id와 pw가 없다면 회원가입 해야 합니다
+
+   ![{284D723F-F3C0-4CD2-BC22-4DBC9255D45D}](https://user-images.githubusercontent.com/93520535/141286311-9b5509a8-7034-4c5c-9669-9b98d316a6fa.png)
 
 
 회원가입 창
