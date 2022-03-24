@@ -16,6 +16,6 @@ java와 SceneBuilder를 이용한 회원가입창
 
 ## 3. 데이터 베이스에 정보 넣어주기
 DB에 값을 넣게 되면 로그인 화면으로
-돌아가 로그인을 할 수 있게됩니다.
+       돌아가 로그인을 할 수 있게됩니다.
 
 ![{1E2D4294-8AB7-4954-A059-FE4B1C2C641A}](https://user-images.githubusercontent.com/93520535/141286434-eb899897-0e62-4422-ac7a-d9cc2fea89bf.png)
